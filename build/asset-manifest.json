@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.461c6ff9.chunk.css",
+    "main.js": "/website/static/js/main.9bbada19.chunk.js",
+    "main.js.map": "/website/static/js/main.9bbada19.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.0af46ba4.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.0af46ba4.js.map",
+    "static/js/2.fe806c71.chunk.js": "/website/static/js/2.fe806c71.chunk.js",
+    "static/js/2.fe806c71.chunk.js.map": "/website/static/js/2.fe806c71.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.453e0aaff1f05cbce57bd102a707e6e2.js": "/website/precache-manifest.453e0aaff1f05cbce57bd102a707e6e2.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.461c6ff9.chunk.css.map": "/website/static/css/main.461c6ff9.chunk.css.map",
+    "static/js/2.fe806c71.chunk.js.LICENSE.txt": "/website/static/js/2.fe806c71.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/website/static/media/Logo.cfe2e983.png",
+    "static/media/Wallet.svg": "/website/static/media/Wallet.5994da67.svg",
+    "static/media/auction.svg": "/website/static/media/auction.0a6f52a8.svg",
+    "static/media/beneficiaries.svg": "/website/static/media/beneficiaries.5920b9b3.svg",
+    "static/media/building.svg": "/website/static/media/building.f1d3fa72.svg",
+    "static/media/ethereum.svg": "/website/static/media/ethereum.85c06004.svg",
+    "static/media/fraud.svg": "/website/static/media/fraud.ea01ed45.svg",
+    "static/media/style.scss": "/website/static/media/illustration-closed-waves.47fa4f95.svg",
+    "static/media/mint.svg": "/website/static/media/mint.0ae73744.svg",
+    "static/media/portfolio.svg": "/website/static/media/portfolio.b19402dc.svg",
+    "static/media/responsibility.svg": "/website/static/media/responsibility.b8955989.svg",
+    "static/media/security.svg": "/website/static/media/security.c1a997f1.svg",
+    "static/media/token-standards.svg": "/website/static/media/token-standards.ba74e61a.svg",
+    "static/media/touch.svg": "/website/static/media/touch.1d4cad7f.svg",
+    "static/media/trustees.svg": "/website/static/media/trustees.60a29c0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0af46ba4.js",
+    "static/js/2.fe806c71.chunk.js",
+    "static/css/main.461c6ff9.chunk.css",
+    "static/js/main.9bbada19.chunk.js"
+  ]
+}
