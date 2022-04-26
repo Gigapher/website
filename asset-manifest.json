@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.461c6ff9.chunk.css",
-    "main.js": "/website/static/js/main.9bbada19.chunk.js",
-    "main.js.map": "/website/static/js/main.9bbada19.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.0af46ba4.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.0af46ba4.js.map",
-    "static/js/2.fe806c71.chunk.js": "/website/static/js/2.fe806c71.chunk.js",
-    "static/js/2.fe806c71.chunk.js.map": "/website/static/js/2.fe806c71.chunk.js.map",
+    "main.css": "/website/static/css/main.fe1457ee.chunk.css",
+    "main.js": "/website/static/js/main.118ce2c4.chunk.js",
+    "main.js.map": "/website/static/js/main.118ce2c4.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.541344db.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.541344db.js.map",
+    "static/js/2.2eccc917.chunk.js": "/website/static/js/2.2eccc917.chunk.js",
+    "static/js/2.2eccc917.chunk.js.map": "/website/static/js/2.2eccc917.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.453e0aaff1f05cbce57bd102a707e6e2.js": "/website/precache-manifest.453e0aaff1f05cbce57bd102a707e6e2.js",
+    "precache-manifest.b8fe9f3c5e89040cc58aecbf0143852a.js": "/website/precache-manifest.b8fe9f3c5e89040cc58aecbf0143852a.js",
     "service-worker.js": "/website/service-worker.js",
-    "static/css/main.461c6ff9.chunk.css.map": "/website/static/css/main.461c6ff9.chunk.css.map",
-    "static/js/2.fe806c71.chunk.js.LICENSE.txt": "/website/static/js/2.fe806c71.chunk.js.LICENSE.txt",
+    "static/css/main.fe1457ee.chunk.css.map": "/website/static/css/main.fe1457ee.chunk.css.map",
+    "static/js/2.2eccc917.chunk.js.LICENSE.txt": "/website/static/js/2.2eccc917.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/website/static/media/Logo.cfe2e983.png",
     "static/media/Wallet.svg": "/website/static/media/Wallet.5994da67.svg",
     "static/media/auction.svg": "/website/static/media/auction.0a6f52a8.svg",
@@ -29,9 +29,9 @@
     "static/media/trustees.svg": "/website/static/media/trustees.60a29c0a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0af46ba4.js",
-    "static/js/2.fe806c71.chunk.js",
-    "static/css/main.461c6ff9.chunk.css",
-    "static/js/main.9bbada19.chunk.js"
+    "static/js/runtime-main.541344db.js",
+    "static/js/2.2eccc917.chunk.js",
+    "static/css/main.fe1457ee.chunk.css",
+    "static/js/main.118ce2c4.chunk.js"
   ]
 }

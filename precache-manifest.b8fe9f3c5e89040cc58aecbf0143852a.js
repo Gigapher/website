@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecb2a07688ec20258fba07794e38e2d5",
+    "revision": "9355b81f17380cf479140128af395f91",
     "url": "/website/index.html"
   },
   {
-    "revision": "2d3136565abdc7a615ad",
-    "url": "/website/static/css/main.461c6ff9.chunk.css"
+    "revision": "bf9295ba997e64a4527b",
+    "url": "/website/static/css/main.fe1457ee.chunk.css"
   },
   {
-    "revision": "de08fd08c11b73f437eb",
-    "url": "/website/static/js/2.fe806c71.chunk.js"
+    "revision": "7fcee002440707af61d6",
+    "url": "/website/static/js/2.2eccc917.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/website/static/js/2.fe806c71.chunk.js.LICENSE.txt"
+    "url": "/website/static/js/2.2eccc917.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d3136565abdc7a615ad",
-    "url": "/website/static/js/main.9bbada19.chunk.js"
+    "revision": "bf9295ba997e64a4527b",
+    "url": "/website/static/js/main.118ce2c4.chunk.js"
   },
   {
-    "revision": "2a6f0003a8d2de8301ca",
-    "url": "/website/static/js/runtime-main.0af46ba4.js"
+    "revision": "86a2b1867ba50bef67d9",
+    "url": "/website/static/js/runtime-main.541344db.js"
   },
   {
     "revision": "cfe2e983663a034838540626eae9c2f6",
@@ -52,28 +52,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/website/static/media/fraud.ea01ed45.svg"
   },
   {
-    "revision": "114e2b591cf56452fa30a06e6b8dc207",
-    "url": "/website/static/media/illus-brackets.114e2b59.svg"
+    "revision": "1469b0dab5d72bba9a3adbc66e21928b",
+    "url": "/website/static/media/illus-brackets.1469b0da.svg"
   },
   {
-    "revision": "ee71105b7cefe7ee14f8c7db3b69fb00",
-    "url": "/website/static/media/illus-planet-waves.ee71105b.svg"
+    "revision": "a8ae44f93634f64c4a4cdbc24f02d8f4",
+    "url": "/website/static/media/illus-planet-waves.a8ae44f9.svg"
   },
   {
-    "revision": "2889538e879c7e78e1abac8ffaed91e8",
-    "url": "/website/static/media/illus-smile.2889538e.svg"
+    "revision": "977b8211cf60f0c44ee62d8b4b3ea766",
+    "url": "/website/static/media/illus-smile.977b8211.svg"
   },
   {
-    "revision": "376a788a40e6dbf031023e5df9036679",
-    "url": "/website/static/media/illus-snowflake.376a788a.svg"
+    "revision": "388bd962629c54f6bd2cb0ef1445e82c",
+    "url": "/website/static/media/illus-snowflake.388bd962.svg"
   },
   {
-    "revision": "42b3938201f084210e0c5334d1562c95",
-    "url": "/website/static/media/illus-star.42b39382.svg"
+    "revision": "0a3ed752b8792039263b2eebf530d610",
+    "url": "/website/static/media/illus-star.0a3ed752.svg"
   },
   {
-    "revision": "4a2f2af8170447ae8160bd82b84786dc",
-    "url": "/website/static/media/illus-sun.4a2f2af8.svg"
+    "revision": "d25dfdd9a74e1d567f1111e02681d14d",
+    "url": "/website/static/media/illus-sun.d25dfdd9.svg"
   },
   {
     "revision": "6407227ab10b41139460af61e531e64e",
